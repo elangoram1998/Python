@@ -1,0 +1,5 @@
+Courses=("python","rdms","web technology","software engg")
+Electives=("business intelligence","data analysis")
+print("courses opted by john:",Courses)
+print("number of courses opted by john:",len(Courses))
+print("courses and electives:",Courses+Electives)
